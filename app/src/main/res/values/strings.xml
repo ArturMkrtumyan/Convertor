@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Convertor</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="text_euro">EUR</string>
+    <string name="go_to_length_convert">Go To Length Convertor</string>
+    <string name="convert_lengt">Convert</string>
+    <array name="spinner">
+        <item>USD</item>
+        <item>RUB</item>
+        <item>GBP</item>
+        <item>AMD</item>
+    </array>
+
+</resources>
+
+
+
+
